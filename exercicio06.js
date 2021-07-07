@@ -1,3 +1,5 @@
+
+
 let precoBike = 300;
 let lucro = precoBike * 0.25;
 
