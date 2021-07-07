@@ -3,7 +3,7 @@
 var readlineSync = require('readline-sync');
  var a = 0;
 
- a = parseFloat(readlineSync.question("Digite o primeiro numero: "));
+ a = parseFloat(readlineSync.question("Digite um numero: "));
 
     for(i = 1; i < 11; i++){
         var multiplicao = a * i;
